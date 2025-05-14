@@ -1,0 +1,14 @@
+D:\DSA\CSharp\DSA_CSharp\bin\Debug\net7.0\DSA_CSharp.exe
+D:\DSA\CSharp\DSA_CSharp\bin\Debug\net7.0\DSA_CSharp.deps.json
+D:\DSA\CSharp\DSA_CSharp\bin\Debug\net7.0\DSA_CSharp.runtimeconfig.json
+D:\DSA\CSharp\DSA_CSharp\bin\Debug\net7.0\DSA_CSharp.dll
+D:\DSA\CSharp\DSA_CSharp\bin\Debug\net7.0\DSA_CSharp.pdb
+D:\DSA\CSharp\DSA_CSharp\obj\Debug\net7.0\DSA_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA\CSharp\DSA_CSharp\obj\Debug\net7.0\DSA_CSharp.AssemblyInfoInputs.cache
+D:\DSA\CSharp\DSA_CSharp\obj\Debug\net7.0\DSA_CSharp.AssemblyInfo.cs
+D:\DSA\CSharp\DSA_CSharp\obj\Debug\net7.0\DSA_CSharp.csproj.CoreCompileInputs.cache
+D:\DSA\CSharp\DSA_CSharp\obj\Debug\net7.0\DSA_CSharp.dll
+D:\DSA\CSharp\DSA_CSharp\obj\Debug\net7.0\refint\DSA_CSharp.dll
+D:\DSA\CSharp\DSA_CSharp\obj\Debug\net7.0\DSA_CSharp.pdb
+D:\DSA\CSharp\DSA_CSharp\obj\Debug\net7.0\DSA_CSharp.genruntimeconfig.cache
+D:\DSA\CSharp\DSA_CSharp\obj\Debug\net7.0\ref\DSA_CSharp.dll
